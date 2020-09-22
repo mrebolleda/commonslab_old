@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: COMMONS LAB
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Community Organization, Microbial Metabolism, and the Origins of Natural Selection'
+image: assets/images/ImageTalk.jpg
 nav-menu: true
 ---
 
