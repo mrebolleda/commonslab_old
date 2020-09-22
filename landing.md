@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>About the COMMONS LAB</h2>
 		</header>
-		<p>The acronym stands for "Community organization, microbial metabolism and the origins of Natural Selection". But the name stands for something bigger: A common space to work and create in community. In the lab, we are interested in understanding how predictable are community assembly, function and evolution? How do ecological dynamics affect evolutionary outcomes? And how, in turn, does evolutionary  </p>
+		<p>The acronym stands for "Community organization, microbial metabolism and the origins of Natural Selection". But the name stands for something bigger: A common space to work and create in community. In the lab, we are interested in understanding how predictable are community assembly, function, and evolution? How do ecological dynamics affect evolutionary outcomes? And how, in turn, does evolutionary change affect ecological interactions? What kind of ecological and evolutionary changes open novel trajectories and what kind of changes and interactions canalize future responses? For me (María Rebolleda-Gómez) the lab is about understanding organisms in relationships. It is about understanding the historical nature of evolution and how microbes shape and are shaped by their ecologies.   </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
